@@ -1,0 +1,13 @@
+{
+  "company": "TechNest",
+  "intern": {
+    "name": "John Doe",
+    "role": "Python Developer",
+    "tasks": [
+      "file handling",
+      "api",
+      "report",
+      "chatbot"
+    ]
+  }
+}
